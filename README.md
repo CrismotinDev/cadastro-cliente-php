@@ -10,4 +10,4 @@ Criando Cadastro de usuários em php ! 🤩
 
 ## 🚀 Let's code! 🚀
 
-<img src="C:\xampp\htdocs\cadastro\img git" alt="Cadastro"/>
+<img src="C:\xampp\htdocs\cadastro\img git\tela1.JPG" alt="Cadastro"/>
